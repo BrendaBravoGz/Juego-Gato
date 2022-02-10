@@ -49,10 +49,10 @@ a{
     height:37px;
     width: 37px;
     margin-left:10px;
-    color:rgb(255, 255, 255);
+    color:#FFB30F;
     font-size: 1.5rem;
-    border: 3px solid #FFB30F;
-    background: none;
+    border-radius: 5px;
+    background: #1F3540;
     cursor: pointer;
 }
 .recargar:hover{
