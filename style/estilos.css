@@ -1,0 +1,61 @@
+h1{
+    font-family: 'Quicksand';
+    font-size: 4rem;
+    text-align: center;
+    color:#FFB30F;
+    margin-top: 5px;
+    text-shadow: 5px 0px 1px #01BAEF;
+}
+h3{
+    font-family: 'Quicksand';
+    font-size: 2rem;
+    text-align: center;
+    color:#fff;
+}
+img{
+    margin-top: 20%;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #1F3540;
+    box-shadow: 0px 10px 20px -5px rgba(0,0,0,0.75);
+}
+img:hover{
+    background: #304955;
+    border: 3px solid #FFB30F;
+}
+a{
+    margin: 0px 50px;
+    width: 450px;
+}
+.menu-principal{
+    margin: 10px 0px;
+    padding: 3px 55px;
+    font-family: 'Quicksand';
+    font-size: 1.2rem;
+    border: 3px solid #01BAEF;
+    background: none;
+    color:#fff;
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+    width: 280px;
+}
+.menu-principal:hover{
+    border: 3px solid #FFB30F;
+    background: #304955;
+}
+
+.recargar{
+    height:37px;
+    width: 37px;
+    margin-left:10px;
+    color:rgb(255, 255, 255);
+    font-size: 1.5rem;
+    border: 3px solid #FFB30F;
+    background: none;
+    cursor: pointer;
+}
+.recargar:hover{
+    border: 3px solid #01BAEF;
+    background: #304955;
+}
